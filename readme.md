@@ -66,7 +66,7 @@ The following parameters are used to configure the model:
 
 From above it is clear that training and validation loss is decreasing with each epochs, this shows that model is converging. Also good sign that validation accuracy is also increasing.
 
-#### 2.6 Visualization of Final Encoding Learned Encoding
+#### 2.6 Visualization of Trained Positional Encoding:
 ![Architecture Diagram](assets/trained_positional_encodings.png)
 
 From above graph, it is clear that for each  position in a sequence and Embedding vector position (depth) that value of encoding is different. So we can say that while training the model for multiclass classification model has learned positional encoding. This might be better solution than the fixed positional encoder based on sine and cosine.
