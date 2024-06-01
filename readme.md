@@ -8,7 +8,6 @@
 
 
 ### Q2. Training of Learnable Positional Encoding using Multihead Self Attention Mechanism
-##### Architecture Diagram of Model (Self Attentional Model)
 
 #### 2.1 Problem Statement:
 
